@@ -10,16 +10,22 @@ import UIKit
 class ViewController: UIViewController {
 
 
-    @IBOutlet var tableView: UITableView!
+    @IBOutlet private var tableView: UITableView!
+    
     var characters: [Character] = []
     var netWork = Network()
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        setUI()
+    }
+    
+    func setUI() {
         tableView.delegate = self
         tableView.dataSource = self
-        netWork.network()
     }
+    
+    
 }
 
 extension ViewController: UITableViewDelegate, UITableViewDataSource {
