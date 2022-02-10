@@ -12,9 +12,9 @@ class DetailViewController: UIViewController {
     @IBOutlet private var actorNameLabel: UILabel!
     @IBOutlet private var characterNameLabel: UILabel!
     @IBOutlet private var houseNameLabel: UILabel!
-    @IBOutlet private var profileImageView: UILabel!
+    @IBOutlet private var profileImageView: UIImageView!
     
-    let character: Character?
+    var character: Character?
     
     
     override func viewDidLoad() {

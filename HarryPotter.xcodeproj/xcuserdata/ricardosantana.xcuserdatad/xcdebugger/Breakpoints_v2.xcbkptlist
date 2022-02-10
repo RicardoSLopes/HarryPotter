@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD73DD07-DADF-49A2-9B90-D4F372CFC134"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "630EF03D-E65D-4497-8787-80B6055315A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HarryPotter/View/Main/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "630EF03D-E65D-4497-8787-80B6055315A1 - b5136032b9e205b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HarryPotter.ViewController.characters.getter : Swift.Array&lt;HarryPotter.Character&gt;"
+                  moduleName = "HarryPotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardosantana/Desktop/iOS/Projeto/HarryPotter/HarryPotter/View/Main/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "630EF03D-E65D-4497-8787-80B6055315A1 - 504e9f04e6680dcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HarryPotter.ViewController.characters.setter : Swift.Array&lt;HarryPotter.Character&gt;"
+                  moduleName = "HarryPotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardosantana/Desktop/iOS/Projeto/HarryPotter/HarryPotter/View/Main/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "630EF03D-E65D-4497-8787-80B6055315A1 - 994d13f68b7095ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HarryPotter.ViewController.characters.modify : Swift.Array&lt;HarryPotter.Character&gt;"
+                  moduleName = "HarryPotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardosantana/Desktop/iOS/Projeto/HarryPotter/HarryPotter/View/Main/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "630EF03D-E65D-4497-8787-80B6055315A1 - 47f8fe2f6302a173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HarryPotter.ViewController.characters.modify : Swift.Array&lt;HarryPotter.Character&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HarryPotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardosantana/Desktop/iOS/Projeto/HarryPotter/HarryPotter/View/Main/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "630EF03D-E65D-4497-8787-80B6055315A1 - 5e080f845a6fed53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HarryPotter.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HarryPotter.ViewController"
+                  moduleName = "HarryPotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardosantana/Desktop/iOS/Projeto/HarryPotter/HarryPotter/View/Main/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "630EF03D-E65D-4497-8787-80B6055315A1 - e031c61744f2960a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HarryPotter.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HarryPotter.ViewController&gt;"
+                  moduleName = "HarryPotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardosantana/Desktop/iOS/Projeto/HarryPotter/HarryPotter/View/Main/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBEEF556-CF11-4FB7-8756-0ED6BF33E1AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HarryPotter/Network/CharacterNetwork.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getCharacter(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

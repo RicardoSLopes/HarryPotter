@@ -34,5 +34,6 @@ class CharacterNetwork: Network {
                 }
             }
         }
+        dataTask.resume()
     }
 }

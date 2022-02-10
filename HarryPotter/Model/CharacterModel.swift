@@ -8,10 +8,10 @@
 import Foundation
 
 struct Character: Codable {
-    var name: String?
-    var house: String?
-    var actorName: String?
-    var image: String?
+    let name: String?
+    let house: String?
+    let actorName: String?
+    let image: String?
     
     private enum CodingKeys: String, CodingKey {
         case name, house, image
