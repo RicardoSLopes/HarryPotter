@@ -59,6 +59,7 @@
                         <outlet property="actorNameLabel" destination="ptW-3v-zi1" id="d15-wV-a2F"/>
                         <outlet property="characterNameLabel" destination="yXc-Sm-na6" id="Fpx-cw-Bba"/>
                         <outlet property="houseNameLabel" destination="Yot-Zq-pVZ" id="yxZ-Y9-m5A"/>
+                        <outlet property="profileImageView" destination="bSd-qV-otL" id="uBx-fz-R2y"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
